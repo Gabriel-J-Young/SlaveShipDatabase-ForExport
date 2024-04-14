@@ -1,0 +1,52 @@
+Week 1: 
+Researching & brainstorming project; getting in contact with Alex Dekhtyar (1hr) 3/30
+
+Week 2: 
+inital meeting with Dekhtyar (1 hr) 4/4 learning about old codebase (1 hr)
+
+Week 3: 
+Meeting with Dekhtyar with group (1 hr) 4/11 
+User stories (1 hr) 4/12
+installed mySQL dev environment (imported data with mySQL workbench) installed node, npm, npx, yarn and react-scripts (had to use npm install react-scripts --save --legacy-peer-deps) loaded up website; website was blank/ not loading correctly. (3 hr) 4/15
+working with ryan to reconfigure 2-person (1 hr) 4/15
+tried starting server with old file structure - website had same problem - problem accessing database? also worked on more robust importing of data ~1 hour had to reinstall react-scripts (1 hr) 4/17
+
+Week 4: 
+javascript and react refresher (2 hr) 4/18
+react tutorials (2 hr) 4/21
+Meeting with Hopper (1 hr) 4/22
+learning about data formatting (1 hr) 4/22
+
+Week 5: getting started modifying react frontend and brainstorming design ideas (2 hr) 4/26 
+watercooler convo (1 hr) 4/26
+
+Week 6: working on cleaning up given react code, figuring out how to use a single web server (2 hr) 5/3
+working on rewritting back and frontend -working on using passing search html to backend to query mysql completed proof of concept for form-style search (3 hr)
+
+Week 7
+passing stuff by url, fixed every thing with "encodeURIComponent" and "decodeURIComponent" now, what if user searches for mySQL query (1.5 hr) 5/10
+split search form into search string generator and result table, learned about higher-level state (2 hr) 5/10
+sprint meeting on dataparsing problems, limiting mySQL query sizes, limited displayed entries. (1 hr) 5/10
+worked on frontend css, added more fields, learned about webframeworks, deleted dead code (3 hr) 5/12
+worked more on fetching data from backend and displaying it. learning from scratch takes some time (1 hr) 5/12
+
+Week 8:
+working on calling and displaying json, fixed inf. loop (1.5 hr) 5/17
+Result table now shows up when search is submitted, and right now the first 25 results are displayed (3 hr) 5/17
+fixed mySQL LIMIT error, added fields and styling 5/19 (3 hr)
+fixed bugs, working on building search string in loop 5/21 (1 hr)
+
+Week 9:
+created mySQL query generator, achived baseline functionality with some fields (4 hr) 5/24
+got new database working with new frontend, fixed a few bugs (1 hr) 5/24
+fixed more fields, got link to case detail in table working (1 hr) 5/24
+first working prototype: demo to dektyar (1 hr) 5/25
+worked to getting range sliders implemented (2 hr) 5/27
+
+Week 10:
+implemented range sliders, refactored backend, updated copyright (5 hr) 5/29
+rewrote case detail page, found bug in searching, added options and navigation for result table (5 hr) 5/30
+fixed bug in case detail page (1 hr) 5/31
+fix issue with showing/hiding numeric range fields, demo to hopper and get feedback (3 hr) 5/31
+added notes, implemented show/hide fields fix, fix bug with using 'WHERE' in mySQL query generator (2 hr) 5/31
+delete dead code, add comments (3 hr) 6/2
