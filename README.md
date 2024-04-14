@@ -2,6 +2,8 @@
 
 Public version (images owned by the British National Archive removed)
 
+Note to viewer, the bulk of Gabriel Young's work is in 'frontend/src/pages/Search_Index.jsx'
+
 ##Installation
 ## Run a production server
 
