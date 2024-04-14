@@ -1,5 +1,8 @@
 # Slave Ship Database
 
+Public version (images owned by the British National Archive removed)
+
+##Installation
 ## Run a production server
 
 First, install Docker on your system. Then, either download Docker Compose from https://github.com/docker/compose/releases, or install it using your package manager.
